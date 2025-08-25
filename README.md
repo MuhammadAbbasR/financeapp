@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save1.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav2.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save3.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save4.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save5.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save6.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save7.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/save8.PNG)
+
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav9.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav10.PNG)
+
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav11.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav12.PNG)
+![Alt Text](https://github.com/MuhammadAbbasR/financeapp/blob/fbab898703d76890e829f98d78c7640ba6afcd32/sav13.PNG)
+
